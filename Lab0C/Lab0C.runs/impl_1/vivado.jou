@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sun Sep 12 13:56:27 2021
+# Process ID: 4404
+# Current directory: C:/Users/crzr_/Lab0C/Lab0C.runs/impl_1
+# Command line: vivado.exe -log Lab0C.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab0C.tcl -notrace
+# Log file: C:/Users/crzr_/Lab0C/Lab0C.runs/impl_1/Lab0C.vdi
+# Journal file: C:/Users/crzr_/Lab0C/Lab0C.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab0C.tcl -notrace
